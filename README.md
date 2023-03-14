@@ -1,12 +1,17 @@
 # benchmark-api
 ![License Badge](https://img.shields.io/badge/license-MIT-blue.svg) 
+![License Badge](https://img.shields.io/badge/-Digital%20Ocean-green)
+![License Badge](https://img.shields.io/badge/-ExpressJs-orange)
+![License Badge](https://img.shields.io/badge/-NGINX-yellowgreen)
+![License Badge](https://img.shields.io/badge/-BenchmarkJS-blueviolet)
+![License Badge](https://img.shields.io/badge/-PM2-ff69b4)
+
 
 ## Table of Contents 
 * [Description](#Descritpion)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Application_Demo](#Application_Demo)
-* [Tests](#Tests)
 * [Technologies](#Technologies)
 * [Credits](#Credits)
 * [License](#License)
@@ -24,9 +29,9 @@ However,
 
 To clone program's repo, run the following command line in your terminal/git bash: 
 
-`git clone git@github.com:ifeasome/i-am-mage.git`. 
+`git clone git@github.com:ifeasome/benchmark-api.git`. 
 
-To view repo, go to: [Application Repo](https://github.com/ifeasome/i-am-mage).
+To view repo, go to: [Application Repo](https://github.com/ifeasome/benchmark-api).
 
 ## Usage 
 To use this app, change the number at the end of the deployed app link and watch the sorting algorithim change. 
@@ -35,19 +40,7 @@ To use this app, change the number at the end of the deployed app link and watch
 
 ## Application_Demo 
 See Application Demo below: </br>
-![Demo Run](./I-Am-Mage.gif)
-
-## Tests 
-Install program as detailed here: [Installation](#Installation). </br>
-All tests are run using cypress end-to-end testing as well individual user testing. </br>
-See Test Run Below: </br>
-![Test Run](./Test_Run.gif)</br>
-To run test locally, run the following command line in your terminal/git bash: 
-
-`npm install cypress --save-dev`
-
-> For more indepth information on Cypress Testing go through [Cypress Docs](https://docs.cypress.io/guides/getting-started/installing-cypress). </br>
-
+![Demo Run](Public/Demo.gif)
 
 ## Technologies
 Technologies used: 
@@ -59,7 +52,7 @@ Technologies used:
 * Benchmarkjs 
 
 ## Credits 
-Credit to: </br>
+Credit to: Triology Continuing Education Course Modules </br>
 
 
 ## License
